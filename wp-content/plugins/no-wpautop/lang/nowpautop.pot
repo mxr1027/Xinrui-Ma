@@ -1,0 +1,26 @@
+msgid "Options"
+msgstr ""
+
+msgid "Display Options"
+msgstr ""
+
+msgid "How to use"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Example"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "You can also specify height and width per-tooltip to provide adjustments as desired. Enter numbers only; size will be set in pixels."
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Include the title attribute or it will not work. You can include html between the supertooltip-tags. Tooltip look can be set up via dom_tooltip.css in your supertooltip plugin directory."
+msgstr ""

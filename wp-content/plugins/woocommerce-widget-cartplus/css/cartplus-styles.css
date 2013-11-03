@@ -1,0 +1,35 @@
+.cartplus-contents a {
+    text-decoration: none;
+}
+
+.cartplus-dropdown {
+    position: absolute;
+    right: 0px;
+    background-color: white;
+    z-index: 99;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #D6D6D6;
+    color: red;
+}
+
+.widget_shopping_cartplus {
+    position: relative;
+}
+
+.cart-contents-toggle {
+    cursor: pointer;
+}
+
+/* Media Queries to make dropdown responsive */
+
+@media screen and (max-width: 650px) {
+    
+    .cartplus-dropdown {
+        position: relative;
+    }
+    
+    .cart-contents-toggle {
+        width: 100%;
+    }
+}

@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Schuhknecht <schuhknecht@design-insel.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Options"
+msgstr "Optionen"
+
+msgid "With <b>No WPautop</b> you can disable the WordPress function wpautop which automatically inserts paragraphs in contents and excerpts."
+msgstr "Mit <b>No WPautop</b> kannst du die Wordpress-Funktion wpautop deaktivieren, welche automatisch Absätze in Inhalt und Auszüge einfügt."
+
+msgid "If you want to disable WPautop complete, use <b>Exerpt and Content</b> (default for this plugin)."
+msgstr "Wenn du WPautop komplett deaktivieren möchtest, wähle <b>Auszug und Inhalt</b> (Standard für diese Plugin)."
+
+msgid "Disable WPautop for"
+msgstr "Deaktiviere WPautop für"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Excerpt <b>and</b> Content"
+msgstr "Inhalt <b>und</b> Auszug"
+
+msgid "Excerpt"
+msgstr "Auszug"
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "nothing (WPautop works)"
+msgstr "nichts (WPautop funktioniert weiterhin)"
+
+msgid "Your options have been saved."
+msgstr "Deine Einstellungen wurden gespeichert."
+
+msgid "More Plugin-Information"
+msgstr "Mehr Informationen zum Plugin"
+

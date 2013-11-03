@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'cart-icons';
+  src: url("../font/cart-icons.eot");
+  src: url("../font/cart-icons.eot?#iefix") format('embedded-opentype'), url("../font/cart-icons.woff") format('woff'), url("../font/cart-icons.ttf") format('truetype'), url("../font/cart-icons.svg#cart-icons") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="iconic-"]:before,
+[class*="iconic-"]:before {
+  font-family: 'cart-icons';
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: 0.2em;
+  text-align: center;
+  opacity: 0.8;
+/* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+/* Animation center compensation - magrins should be symmetric */
+/* remove if not needed */
+  margin-left: 0.2em;
+/* you can be more comfortable with increased icons size */
+/* font-size: 120%; */
+/* Uncomment for 3D effect */
+/* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+
+.iconic-cart:before { content: '\c9'; } /* 'É' */
+.iconic-basket:before { content: '\e73d'; } /* '' */
+.iconic-basket-1:before { content: '\e800'; } /* '' */
+.iconic-basket-2:before { content: '\e801'; } /* '' */
+.iconic-basket-alt:before { content: '\e7ae'; } /* '' */
+.iconic-emo-wink2:before { content: '\e813'; } /* '' */
+.iconic-bag:before { content: '👜'; } /* '\1f45c' */

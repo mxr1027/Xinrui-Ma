@@ -1,0 +1,42 @@
+== Changelog ==
+
+= Theme Name: Radfighter Theme
+* Version 1.2.3
+***************************************
+1. Font license specified.
+
+* Version 1.2.3
+***************************************
+1. Deprecated php funtion removed.
+2. Period in comments.php is removed.
+3. wp_print_scripts changed to wp_enqueue_scripts.
+
+* Version 1.2.2
+***************************************
+1. Removed package wordpress from all files.
+2. Different text domain issue fixed.
+
+* Version 1.2.1
+***************************************
+1. Some untranslated text made translation ready.
+2. Different text domain removed.
+3. Unprefix function made prefixed.
+4. Escaped urls with esc_url().
+5. Filtered wp_title();
+
+* Version 1.2.0
+***************************************
+1. Image license specified.
+
+* Version 1.1.0
+***************************************
+1. Debug error on undefined constant error fixed.
+2. Removed hard coded telephone numbers into the theme header.
+3. Removed function exists wrapper. Calls to add_image_size and add_theme_support hooked to after_setup_theme.
+4. All Untranslated text wrapped into translation function. 
+5. Enabled WordPress core custom background setting.
+6. Code optimized.
+
+* Version 1.0.0
+***************************************
+1. Road-fighter Theme is released on 23/06/2013.
